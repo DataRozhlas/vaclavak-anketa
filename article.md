@@ -9,6 +9,7 @@ options: [noheader] #wide, noheader (, nopic)
 
 Text tady
 
-<div id="anketa"></div>
-
+<wide>
+  <div id="anketa-wrapper"></div>
+</wide>
 Text tady
