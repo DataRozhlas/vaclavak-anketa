@@ -1,43 +1,4 @@
-<div class="b-data__content" id="content">
-  
-  <script type="text/javascript">
-    document.getElementsByTagName('article')[0].classList.add('b-data--no-img');
-  </script>
-  <style>article li{background:0 0!important;margin:0!important;padding:0!important}article ol,article ul{list-style:initial!important;font-size:medium!important;line-height:1.5!important}article hr{max-width:none!important}</style>
-
-  <div class="row-main row-main--article">
-    <h1 class="b-data__title b-data__title--sm" id="snfl-title-div">
-      <!--[[ZPRAVY_TITLE:]]-->
-    </h1>
-    <script>
-      if (window.location.href.indexOf("www.irozhlas") < 0) {
-        document.getElementById("snfl-title-div").innerHTML = "Václavák - anketa";
-      }
-    </script>
-  </div>
-
-  <div class="row-main row-main--narrow"> 
-    <p class="text-bold text-lg">
-      Ptáme se lidí na věci, je to krásné.
-    </p>
-  </div>
-
-  <!--[[ZPRAVY_SNOWFALL_METADATA:]]-->
-
-  <div class="row-main row-main--narrow">
-    <figure class="b-detail__img"><img src="https://interaktivni.rozhlas.cz/brexit/media/cover.jpg" width="100%" /><figcaption>Foto <a href='https://ctk.cz'>ČTK</a></figcaption></figure>
-    <p>Text tady</p>
-<div id="anketa"></div>
-
-<p>Text tady</p>
-
-    <p class="meta meta--right meta--big">
-      <!--[[ZPRAVY_SNOWFALL_AUTHORS:FOOTER]]-->
-    </p>
-  </div>
-  <!--[[ZPRAVY_SNOWFALL_RELATED:ARTICLES]]-->
-</div>
-<script>/******/ (function(modules) { // webpackBootstrap
+/******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
 /******/
@@ -149,4 +110,4 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 
 /***/ })
 
-/******/ });</script>
+/******/ });
