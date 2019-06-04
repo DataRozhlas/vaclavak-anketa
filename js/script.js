@@ -1,12 +1,9 @@
 ﻿import { h, render } from "preact";
 /** @jsx h */
 
-let vekFill = function(v) {
-  if (v === '') {
-    return ''
-  } else {
-    return v + ' let'
-  }
+function vekFill(v) {
+  if (v === "") return "";
+  return `${v} let`;
 }
 
 function onLoad(e) {
@@ -18,7 +15,8 @@ function onLoad(e) {
           <img className="portret" src={'https://data.irozhlas.cz/vaclavak-anketa/img/' + el.obr} alt={el.jm} />
           <div className="bio">
             <div className="jmeno">{`${el.jm} ${el.pr}`}</div>
-            <div className="vekpov">{`${el.p} • ${vekFill(el.v)}`}</div>
+            <div className="vek">{el.p}</div>
+            <div className="vek">{vekFill(el.v)}</div>
             <div className="mesto">{el.m}</div>
           </div>
           <div className="odpoved">{el.o}</div>
@@ -26,7 +24,7 @@ function onLoad(e) {
       ))}
     </div>
   ), document.getElementById("anketa-wrapper"));
-}
+};
 
 const r = new XMLHttpRequest();
 r.addEventListener("load", onLoad);
