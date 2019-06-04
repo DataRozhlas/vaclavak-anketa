@@ -7,7 +7,7 @@ function onLoad(e) {
     <div id="anketa">
       {data.map(el => (
         <div className="respondent">
-          <img className="portret" src={el.obr} alt={el.jm} />
+          <img className="portret" src={'https://data.irozhlas.cz/vaclavak-anketa/img/' + el.obr} alt={el.jm} />
           <div className="bio">
             <div className="jmeno">{`${el.jm} ${el.pr}`}</div>
             <div className="vekpov">{`${el.p} • ${el.v} let`}</div>
