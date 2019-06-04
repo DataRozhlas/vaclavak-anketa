@@ -1,5 +1,5 @@
 title: "130 hlasů, 130 tváří, 130 důvodů. Ptali jsme se, kdo a proč přišel demonstrovat na Václavské náměstí"
-perex: "Organizátoři očekávali, že při šesté demonstraci za demisi Andreje Babiše a Marie Benešové zaplní Václavské náměstí a promění ji tak v největší protest po roce 1989. Kdo ale do centra Prahy v úterý navečer dorazil? Server iROZHLAS.cz a Radiožurnál se pokusily o dosud nejcelistvější sondu – reportéři vyzpovídali stovku demonstrujících."
+perex: "Organizátoři očekávali, že při šesté demonstraci za demisi Andreje Babiše a Marie Benešové zaplní Václavské náměstí a promění ji tak v největší protest po roce 1989. Kdo ale do centra Prahy v úterý navečer dorazil? Server iROZHLAS.cz a Radiožurnál se pokusily o dosud nejcelistvější sondu – reportéři vyzpovídali přes stovku demonstrujících."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/demo_9_190604-213227_mda.jpg?itok=_Vo38WNs
 coverimg_note: "Foto: <a href='https://www.irozhlas.cz/michaela-danelova-5270376'>Michaela Danelová, iROZHLAS.cz</a>"
 styles: []
