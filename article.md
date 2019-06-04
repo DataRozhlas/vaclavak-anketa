@@ -4,7 +4,7 @@ coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
-options: [noheader] #wide, noheader (, nopic)
+options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 
 Text tady
@@ -12,4 +12,3 @@ Text tady
 <wide>
   <div id="anketa-wrapper"></div>
 </wide>
-Text tady
