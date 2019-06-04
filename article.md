@@ -1,4 +1,4 @@
-title: "100 hlasů, 100 tváří, 100 důvodů. Ptali jsme se, kdo a proč přišel demonstrovat na Václavské náměstí"
+title: "130 hlasů, 130 tváří, 130 důvodů. Ptali jsme se, kdo a proč přišel demonstrovat na Václavské náměstí"
 perex: "Organizátoři očekávali, že při šesté demonstraci za demisi Andreje Babiše a Marie Benešové zaplní Václavské náměstí a promění ji tak v největší protest po roce 1989. Kdo ale do centra Prahy v úterý navečer dorazil? Server iROZHLAS.cz a Radiožurnál se pokusily o dosud nejcelistvější sondu – reportéři vyzpovídali stovku demonstrujících."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/demo_9_190604-213227_mda.jpg?itok=_Vo38WNs
 coverimg_note: "Foto: <a href='https://www.irozhlas.cz/michaela-danelova-5270376'>Michaela Danelová, iROZHLAS.cz</a>"
@@ -10,11 +10,7 @@ Od prvopočátků protestů, které organizuje iniciativa Milion chvilek pro dem
 
 Premiér Andrej Babiš (ANO) viděl za protesty své politické protivníky. „Už to nebyla vlastně demonstrace občanů. Na pódiu vystupovaly téměř všechny politické strany. Vlastně se to změnilo na mítink před evropskými volbami,“ prohlásil před květnovými volbami do Evropského parlamentu.
 
-<wide>
-  <div id="anketa-wrapper"></div>
-</wide>
-
-V dubnu se zase pozastavil nad tím, že „účastníci protestu měli stejné transparenty i stejné deštníky“ a vznesl řečnickou otázku, kdo protesty platí (odpověď nabídl například server Hlidacipes.org https://hlidacipes.org/kdo-plati-demonstrace-proti-babisovi-a-benesove-podivat-se-muze-kazdy/).
+V dubnu se zase pozastavil nad tím, že „účastníci protestu měli stejné transparenty i stejné deštníky“ a vznesl řečnickou otázku, kdo protesty platí (odpověď nabídl například server [Hlidacipes.org](https://hlidacipes.org/kdo-plati-demonstrace-proti-babisovi-a-benesove-podivat-se-muze-kazdy/)).
 
 I ministryně spravedlnosti Marie Benešová (za ANO) má jasno v tom, kdo žádá její demisi: „Je to část veřejnosti z Prahy. Jde o přehnané reakce části veřejnosti, která se nesmířila s výsledky voleb a nesnáší pana premiéra i pana prezidenta. Ale to není většina.“
 
@@ -22,15 +18,9 @@ Do organizátorů se pustil i prezident Miloš Zeman. „Oni říkají, že jsou
 
 Jenže i ulice má své tváře, své důvody. Proto desítka reportérů serveru iROZHLAS.cz a Radiožurnálu vyrazila v úterý přímo mezi demonstrující a pustila se do dosud nejrozsáhlejší ankety, kterou česká média kdy z protestů nabídla.
 
-<right>
-	<p>
-	<b>Rekordní demonstrace?</b>
-	</p>
-  <p>
-	<p>Úterní demonstrace na Václavském náměstí se podle pořadatelské iniciativy Milion chvilek účastnilo zhruba 120 000 lidí. Policie ani úřady odhady nezveřejnily. Dosud největší demonstrací po roce 1989 byla v dubnu 2012, kdy lidé protestovali proti reformám tehdejší vlády Petra Nečase (ODS). Podle tehdejších odhadů se jí účastnilo až 150 000 lidí, podle policie šlo o 90 000 lidí. V listopadu 1997 demonstrovalo proti politice vlády Václava Klause (ODS) na Staroměstském náměstí v Praze až 120 000 lidí.</p><p>
-Demonstrace za demisi Benešové se konají každý týden od konce dubna, v Praze byla popáté. Minulý týden se demonstrace v Praze nekonala, přesunula se do českých měst.</p>Zdroj: ČTK
-	</p>
-</right>
+<wide>
+  <div id="anketa-wrapper"></div>
+</wide>
 
 Více než stovce protestujících položili jednoduchou otázkou: Proč jste přišli? Snažili se přitom ptát průřezově. Václavské náměstí si rozdělili do sektorů tak, aby pokryli celou jeho plochu; hlasy sbírali přímo v jádru – před pódiem – i na okrajích demonstrace. Oslovené požádali o jméno, věk, bydliště a povolání. Pokud se někdo odmítl představit, nepřemlouvali ho. Z deseti oslovených v průměru odmítli dva. Nejčastější důvod byl, že se nechtěli fotit.
 
@@ -42,4 +32,13 @@ Nejaktuálnější reakce premiéra Babiše i ministryně Benešové zní obdobn
 
 A Babiš na dotaz serveru Novinky.cz, zda demonstraci sledoval, odpověděl: „Nesleduju, proč bych to sledoval? Je hezky, tak oni tam chodí teďka na koncerty.“
 
-
+<!-- wide box -->
+<div class="b-inline"><div class="b-inline__wrap"><div class="b-inline__content"><div class="text-sm">
+    <p>
+    <b>Rekordní demonstrace?</b>
+    </p>
+  <p>
+    </p><p>Úterní demonstrace na Václavském náměstí se podle pořadatelské iniciativy Milion chvilek účastnilo zhruba 120 000 lidí. Policie ani úřady odhady nezveřejnily. Dosud největší demonstrací po roce 1989 byla v dubnu 2012, kdy lidé protestovali proti reformám tehdejší vlády Petra Nečase (ODS). Podle tehdejších odhadů se jí účastnilo až 150 000 lidí, podle policie šlo o 90 000 lidí. V listopadu 1997 demonstrovalo proti politice vlády Václava Klause (ODS) na Staroměstském náměstí v Praze až 120 000 lidí.</p><p>
+Demonstrace za demisi Benešové se konají každý týden od konce dubna, v Praze byla popáté. Minulý týden se demonstrace v Praze nekonala, přesunula se do českých měst.</p>Zdroj: ČTK
+    <p></p>
+</div></div></div></div>

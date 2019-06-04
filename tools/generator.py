@@ -4,19 +4,7 @@ import json
 import unicodedata
 import os
 import hashlib
-#%%
-d = pd.DataFrame()
-for file in os.listdir('./scratch/'):
-    if file == 'cele.xls':
-        continue
-    tmp = pd.read_excel('./scratch/' + file)
-    tmp['red'] = file.split('.')[0]
-    d = d.append(tmp, ignore_index=True)
 
-#%%
-d.to_excel('./scratch/cele.xls', index=False)
-
-###ODSUD DAL
 #%%
 d = pd.read_excel('./scratch/cele.xls')
 
@@ -48,5 +36,3 @@ li = list(d.to_dict(orient='index').values())
 #%%
 with open('./data/data.json', 'w', encoding='utf-8') as f:
     f.write(json.dumps(li, ensure_ascii=False).replace('NaN', '""'))
-
-#%%
