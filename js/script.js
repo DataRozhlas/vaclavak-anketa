@@ -1,6 +1,14 @@
 ﻿import { h, render } from "preact";
 /** @jsx h */
 
+let vekFill = function(v) {
+  if (v === '') {
+    return ''
+  } else {
+    return v + ' let'
+  }
+}
+
 function onLoad(e) {
   const data = JSON.parse(e.target.response);
   render((
@@ -10,7 +18,7 @@ function onLoad(e) {
           <img className="portret" src={'https://data.irozhlas.cz/vaclavak-anketa/img/' + el.obr} alt={el.jm} />
           <div className="bio">
             <div className="jmeno">{`${el.jm} ${el.pr}`}</div>
-            <div className="vekpov">{`${el.p} • ${el.v} let`}</div>
+            <div className="vekpov">{`${el.p} • ${vekFill(el.v)}`}</div>
             <div className="mesto">{el.m}</div>
           </div>
           <div className="odpoved">{el.o}</div>
