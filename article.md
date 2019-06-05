@@ -10,7 +10,7 @@ Od prvopočátků protestů, které organizuje iniciativa Milion chvilek pro dem
 
 Premiér Andrej Babiš (ANO) viděl za protesty své politické protivníky. „Už to nebyla vlastně demonstrace občanů. Na pódiu vystupovaly téměř všechny politické strany. Vlastně se to změnilo na mítink před evropskými volbami,“ prohlásil před květnovými volbami do Evropského parlamentu.
 
-V dubnu se zase pozastavil nad tím, že „účastníci protestu měli stejné transparenty i stejné deštníky“ a vznesl řečnickou otázku, kdo protesty platí (odpověď nabídl například server [Hlidacipes.org](https://hlidacipes.org/kdo-plati-demonstrace-proti-babisovi-a-benesove-podivat-se-muze-kazdy/)).
+V dubnu se zase pozastavil nad tím, že „účastníci protestu měli stejné transparenty i stejné deštníky“, a vznesl řečnickou otázku, kdo protesty platí (odpověď nabídl například server [Hlidacipes.org](https://hlidacipes.org/kdo-plati-demonstrace-proti-babisovi-a-benesove-podivat-se-muze-kazdy/)).
 
 I ministryně spravedlnosti Marie Benešová (za ANO) má jasno v tom, kdo žádá její demisi: „Je to část veřejnosti z Prahy. Jde o přehnané reakce části veřejnosti, která se nesmířila s výsledky voleb a nesnáší pana premiéra i pana prezidenta. Ale to není většina.“
 
@@ -26,7 +26,7 @@ Více než stovce protestujících položili jednoduchou otázkou: Proč jste p�
 
 A proč tedy přišli? Drtivá většina na prvním místě jmenovala premiéra Andreje Babiše, přičemž často zmiňovali jeho předlistopadovou minulost. Opakovaně zaznělo i jméno prezidenta Zemana a ministryně Benešové. Často se vzpomínalo i na listopad 1989.
 
-„Tady jsem v roce 1989 demonstroval, tady jsem byl dvakrát zlitý vodním dělem, tady mě zatknuli a odvezli do Mělníka, kde mi dali pokutu, že jsem se nerozešel. Jsem tu, protože mě popuzuje, že tenhle člověk, bývalý estébák, chodí dávat o půlnoci na Národní třídu věnec,“ řekl například třiasedmdesátiletý Jiří Kříž z Třeboně. 
+„Tady jsem v roce 1989 demonstroval, tady jsem byl dvakrát zlitý vodním dělem, tady mě zatkli a odvezli do Mělníka, kde mi dali pokutu, že jsem se nerozešel. Jsem tu, protože mě popuzuje, že tenhle člověk, bývalý estébák, chodí dávat o půlnoci na Národní třídu věnec,“ řekl například třiasedmdesátiletý Jiří Kříž z Třeboně. 
 
 Nejaktuálnější reakce premiéra Babiše i ministryně Benešové zní obdobně. „Já ty demonstrace nesleduju, takže žádný komentář vám nedám. Před chvíli jsem přijela ze sněmovny, takže vůbec nevím, co je na Václavském náměstí,“ řekla v úterý večer Radiožurnálu Benešová. 
 
@@ -39,6 +39,6 @@ A Babiš na dotaz serveru Novinky.cz, zda demonstraci sledoval, odpověděl: „
     </p>
   <p>
     </p><p>Úterní demonstrace na Václavském náměstí se podle pořadatelské iniciativy Milion chvilek účastnilo zhruba 120 000 lidí. Policie ani úřady odhady nezveřejnily. Dosud největší demonstrací po roce 1989 byla v dubnu 2012, kdy lidé protestovali proti reformám tehdejší vlády Petra Nečase (ODS). Podle tehdejších odhadů se jí účastnilo až 150 000 lidí, podle policie šlo o 90 000 lidí. V listopadu 1997 demonstrovalo proti politice vlády Václava Klause (ODS) na Staroměstském náměstí v Praze až 120 000 lidí.</p><p>
-Demonstrace za demisi Benešové se konají každý týden od konce dubna, v Praze byla popáté. Minulý týden se demonstrace v Praze nekonala, přesunula se do českých měst.</p>Zdroj: ČTK
+Demonstrace za demisi Benešové se konají každý týden od konce dubna, v Praze byla popáté. Minulý týden se demonstrace v Praze nekonala, přesunula se do ostatních českých měst.</p>Zdroj: ČTK
     <p></p>
 </div></div></div></div>
